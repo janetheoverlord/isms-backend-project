@@ -1,6 +1,6 @@
 # isms-backend-project
 This is a backend API built with Express and MongoDB.
-It handles form submissions and login requests for a frontend cat application.
+It handles form submissions and login requests for a frontend cat application. It can be tested using apps like Postman.
 
 The API allows users to:
 - Check server status
